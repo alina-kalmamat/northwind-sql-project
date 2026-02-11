@@ -16,7 +16,7 @@ This project demonstrates proficiency in advanced SQL topics:
 * **Advanced Logic:** Using `CASE WHEN` to categorize delivery speeds and Type Casting `(::numeric)` for precise calculations.
 
 ## 🏗️ Project Architecture
-* **SQL Scripts:** Main analytical script with 10 business tasks
+* [**SQL Scripts**] (sql_scripts.sql)**:** Main analytical script with 10 business tasks
 * **README.md:** Project documentation
 * **GIT ignore:** Standard git ignore file
 
