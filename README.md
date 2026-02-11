@@ -21,7 +21,10 @@ This project demonstrates proficiency in advanced SQL topics:
 ├── README.md                    # Project documentation
 └── .gitignore                   # Standard git ignore file
 
-## **🛠️ Tools Used** 
-* Database: PostgreSQL
-* Interface: DBeaver
-* Language: SQL
+
+## **🛠️ Tools Used**
+Database: PostgreSQL
+
+Interface: DBeaver
+
+Language: SQL
