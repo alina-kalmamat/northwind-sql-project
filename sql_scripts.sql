@@ -1,5 +1,9 @@
-/* NORTHWIND SALES ANALYSIS PROJECT
-Focus: CTEs, Window Functions, and Business Metrics
+/* ================================================================
+NORTHWIND SALES & OPERATIONS ANALYSIS
+================================================================
+Author: Alina Kalmamatova
+Tools: PostgreSQL, CTEs, Window Functions, CASE WHEN
+Database: Northwind (Retail & Supply Chain)
 */
 
 -- 1. General Overview: Total revenue and total number of orders
