@@ -16,7 +16,7 @@ This project demonstrates proficiency in advanced SQL topics:
 * **Advanced Logic:** Using `CASE WHEN` to categorize delivery speeds and Type Casting `(::numeric)` for precise calculations.
 
 ## 🏗️ Project Architecture
-* **[SQL Scripts:](https://github.com/alina-kalmamat/northwind-sql-project/blob/main/sql_scripts.sql)** Main analytical script with 10 business tasks
+* **[SQL Script:](https://github.com/alina-kalmamat/northwind-sql-project/blob/main/sql_scripts.sql)** Main analytical script with 10 business tasks
 * [**README.md:**](https://github.com/alina-kalmamat/northwind-sql-project/blob/main/README.md) Project documentation
 
 ## **🛠️ Tools Used**
