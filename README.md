@@ -18,9 +18,8 @@ This project demonstrates proficiency in advanced SQL topics:
 ## 🏗️ Project Architecture
 * **[SQL Scripts:](https://github.com/alina-kalmamat/northwind-sql-project/blob/main/sql_scripts.sql)** Main analytical script with 10 business tasks
 * [**README.md:**](https://github.com/alina-kalmamat/northwind-sql-project/blob/main/README.md) Project documentation
-* **GIT ignore:** Standard git ignore file
 
 ## **🛠️ Tools Used**
-* Database: PostgreSQL
-* Interface: DBeaver
-* Language: SQL
+* **Database:** PostgreSQL
+* **Interface:** DBeaver
+* **Language:** SQL
